@@ -36,7 +36,7 @@ This project implements a simple **2-layer neural network** trained in **C++** t
 ---
 
 ## 📂 File Structure
-
+```
 NN_cpp/
 │
 ├── main.cpp # Neural network training logic
@@ -50,7 +50,7 @@ NN_cpp/
 ├── xor_loss.png # Loss curve plot
 │
 └── build.sh # Build script using CMake
-
+```
 ---
 
 ## 📦 Requirements
