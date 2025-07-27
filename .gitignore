@@ -1,0 +1,7 @@
+app
+trash_codes.txt
+.vscode/
+build/
+*.exe
+test.cpp
+.git/
