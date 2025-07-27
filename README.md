@@ -12,10 +12,12 @@ This project implements a simple **2-layer neural network** trained in **C++** t
   - Input layer: 2 neurons
   - Hidden layer: 2 neurons (with ReLU or Sigmoid activation)
   - Output layer: 1 neuron (Sigmoid)
- - **Decision Boundaries**: 
-![XOR Decision Boundary](log_boundaries_best.png )
- - **Training Loss**: 
-![XOR Decision Boundary](log_los.png)
+- **Decision Boundaries**  
+  ![XOR Decision Boundary](log_boundaries_best.png)
+
+- **Training Loss**  
+  ![Training Loss Curve](log_loss.png)
+
 ---
 
 ## 🚀 Features
